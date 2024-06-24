@@ -1,8 +1,10 @@
 <div align="center">
-  
+
+![header](https://github.com/yeogeru/yeogeru/blob/main/images/header.png?raw=true)
+
 <br>
 
-**Hello, I'm a Fullstack developer from Republic of Korea who seeks convenience.**
+**I'm a Fullstack developer from Republic of Korea who seeks convenience.**
   
 <br><br>
   
