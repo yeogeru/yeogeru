@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://github.com/yeogeru/yeogeru/blob/main/images/header.png?raw=true)
+# 👋 Hello, I'm Yeogeru!
 
 <br>
 
